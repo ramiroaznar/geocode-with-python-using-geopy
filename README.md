@@ -2,7 +2,7 @@
 
 A Python program to geocode a csv file using Geopy. This was used to geocode addresses from a list of Spanish bank offices.
 
-# geocode_with_geopy.py
+# geocode-with-geopy.py
 
 Script to geocode a csv file, adding two new columns with longitude and latitude values.
 
