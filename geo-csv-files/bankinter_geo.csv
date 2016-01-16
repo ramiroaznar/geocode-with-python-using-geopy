@@ -1,0 +1,644 @@
+Banco,Sucursal,Direccion,Ciudad,Pais,Latitud,Longitud
+
+Bankinter ,Paseo de La Castellana,"Paseo de La Castellana, 29",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Paseo de La Castellana,"Paseo de La Castellana, 121",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Avenida Reina Victoria 31,"Avenida Reina Victoria 31,",Madrid,España,40.6389352,-4.0252454
+
+Bankinter ,Orense,"Orense, 5",Madrid,España,42.5978558,-6.7192025
+
+Bankinter ,Conde de Penalver,"Conde de Penalver, 23",Madrid,España,40.427393,-3.6756382
+
+Bankinter ,Bravo Murillo,"Bravo Murillo, 126",Madrid,España,40.4510674,-3.7033717
+
+Bankinter ,Fuencarral,"Fuencarral, 131",Madrid,España,40.4950279,-3.6921712
+
+Bankinter ,Duque de Alba,"Duque de Alba, 7",Madrid,España,37.3235681,-3.5929154
+
+Bankinter ,Lopez de Hoyos,"Lopez de Hoyos, 116 118",Madrid,España,40.4415849,-3.6781439
+
+Bankinter ,Bravo Murillo,"Bravo Murillo, 297",Madrid,España,40.4510674,-3.7033717
+
+Bankinter ,Paseo de Las delicias,"Paseo de Las delicias, 31",Madrid,España,-25.3262464,-57.6225802
+
+Bankinter ,Alcala,"Alcala, 361",Madrid,España,29.853171,-95.2505329
+
+Bankinter ,Ronda de Atocha 18,Ronda de Atocha 18,Madrid,España,40.4065721,-3.697498
+
+Bankinter ,Marques de Urquijo,"Marques de Urquijo, 11",Madrid,España,43.5374917,-5.6481312
+
+Bankinter ,Goya,"Goya, 34",Madrid,España,-34.6347617,-58.4854511
+
+Bankinter ,Laguna,"Laguna, 40",Madrid,España,40.8833503,-4.1155082
+
+Bankinter ,Principe de Vergara,"Principe de Vergara, 262",Madrid,España,36.5189667,-4.876947
+
+Bankinter ,Mayor,"Mayor, 3",Madrid,España,42.580029,-4.1777762
+
+Bankinter ,Narvaez,"Narvaez, 55",Madrid,España,2.7651581,-75.7684179
+
+Bankinter ,Avenida de Bruselas,"Avenida de Bruselas, 45",Madrid,España,42.8495354,-2.6464733
+
+Bankinter ,Avenida de Moratalaz,"Avenida de Moratalaz, 70",Madrid,España,40.406009,-3.6500752
+
+Bankinter ,Julio Palacios,"Julio Palacios, 23",Madrid,España,-16.3973949,-71.5774479
+
+Bankinter ,Suecia,"Suecia, 41 43",Madrid,España,-25.3026585,-57.6147585
+
+Bankinter ,Avenida concha Espina,"Avenida concha Espina, 12",Madrid,España,40.5900679,-4.1574765
+
+Bankinter ,Doctor Fleming,"Doctor Fleming, 33 35",Madrid,España,42.6165605,-6.4175543
+
+Bankinter ,Agustin Foxa,"Agustin Foxa, 32",Madrid,España,40.4702578,-3.6852099
+
+Bankinter ,Castello,"Castello, 102",Madrid,España,45.8418473,9.1055608
+
+Bankinter ,Avenida General Peron,"Avenida General Peron, 38",Madrid,España,-32.2484526,-63.9740604
+
+Bankinter ,Santa Engracia,"Santa Engracia, 97",Madrid,España,42.3138503,-0.6436268
+
+Bankinter ,Corazon de Maria,"Corazon de Maria, 39",Madrid,España,-28.434994,-65.7800024
+
+Bankinter ,Embajadores,"Embajadores, 208",Madrid,España,25.6517913,-100.3121103
+
+Bankinter ,Fernando VI,"Fernando VI, 15",Madrid,España,43.4818228,-8.2254397
+
+Bankinter ,Juan de Mena,"Juan de Mena, 21",Madrid,España,-25.286527,-57.6242667
+
+Bankinter ,Lagasca,"Lagasca, 39",Madrid,España,40.423112,-3.6856073
+
+Bankinter ,Avenida Mediterraneo,"Avenida Mediterraneo, 19",Madrid,España,36.8237326,-2.4448076
+
+Bankinter ,Principe de Vergara,"Principe de Vergara, 204",Madrid,España,36.5189667,-4.876947
+
+Bankinter ,Arturo Soria,"Arturo Soria, 191",Madrid,España,40.4420021,-3.6409447
+
+Bankinter ,Rios Rosas,"Rios Rosas, 48",Madrid,España,41.3597267,2.089075
+
+Bankinter ,Avenida de Badajoz,"Avenida de Badajoz, 15",Madrid,España,39.2785541,-7.43190166794
+
+Bankinter ,Caleruega,"Caleruega, 5",Madrid,España,41.825458,-3.4870264
+
+Bankinter ,Arroyofresno,"""Arroyofresno, 17""",Madrid,España,40.4751655,-3.74301953498
+
+Bankinter ,Paseo Castellana 131,Paseo Castellana 131,Madrid,España,-12.1330411,-77.0033073
+
+Bankinter ,Avenida de Europa,"Avenida de Europa, 27",Madrid,España,40.4353917,-3.5598497
+
+Bankinter ,C. Princesa,"Calle Princesa, 1",Madrid,España,25.932074,-97.521393
+
+Bankinter ,C. Jose Abascal,"C. Jose Abascal, 44",Madrid,España,-0.277707,-78.4719448
+
+Bankinter ,Alberto Aguilera,"Alberto Aguilera, 28",Madrid,España,40.4303519,-3.7140294
+
+Bankinter ,Avenida Ciudad de Barcelona,"Avenida de la Ciudad de Barcelona, 198",Madrid,España,40.4017853,-3.675692
+
+Bankinter ,Padre Damian,"Padre Damian, 42",Madrid,España,-0.1822482,-78.5101925
+
+Bankinter ,Principe Carlos N. 15,"Principe Carlos 15,",Madrid,España,-34.7411149,-56.0003854
+
+Bankinter ,Juan Bravo,"Juan Bravo, 62",Madrid,España,-23.6009389,-70.3765566
+
+Bankinter ,Gasometro,"Gasometro, 13",Madrid,España,-22.90062685,-43.2121458205
+
+Bankinter ,Cea Bermudez,"Cea Bermudez, 52",Madrid,España,40.4387459,-3.7069334
+
+Bankinter ,Fermin Caballero,"Fermin Caballero, 51",Madrid,España,40.4831054,-3.7084794
+
+Bankinter ,Escalona,"Escalona, 84",Madrid,España,40.169855,-4.4045216
+
+Bankinter ,Alcala,"Alcala, 181",Madrid,España,29.853171,-95.2505329
+
+Bankinter ,Medea,"Medea, 4",Madrid,España,45.917715,13.4225322
+
+Bankinter ,Avenida Aragon,"Avenida Aragon, 334",Madrid,España,33.4293043,-117.6243618
+
+Bankinter ,Pedro Texeira,"Pedro Texeira, 8",Madrid,España,-16.7300699,-49.3215165
+
+Bankinter ,Gran Via 57,Gran Via 57,Madrid,España,37.8555383944,-122.037662375
+
+Bankinter ,Jose Lazaro Galdiano,"Jose Lazaro Galdiano, 4",Madrid,España,40.4575459,-3.6881834
+
+Bankinter ,Avenida Real de Pinto,"Avenida Real de Pinto, 158",Madrid,España,40.3294925,-3.7159265
+
+Bankinter ,Camino de Hormigueras,"Camino de Hormigueras, 167",Madrid,España,40.3757518,-3.6521339
+
+Bankinter ,Princesa,"Princesa, 70",Madrid,España,-26.4452737,-53.599913
+
+Bankinter ,Francisco Silvela 36,Francisco Silvela 36,Madrid,España,40.4332025,-3.6730004
+
+Bankinter ,Plaza de Castilla,"Plaza de Castilla, 3",Madrid,España,40.4664337,-3.6895517
+
+Bankinter ,C.marques de Riscal 11,"Calle del Marques de Riscal 11,",Madrid,España,40.4305946,-3.6907456
+
+Bankinter ,Avenida de Bruselas 12,"Avenida de Bruselas 12,",Madrid,España,42.8495354,-2.6464733
+
+Bankinter ,General Arrando,"General Arrando, 3",Madrid,España,40.4317013,-3.6950493
+
+Bankinter ,Sopelana,"Sopelana, 13",Madrid,España,43.3778662,-2.98375565528
+
+Bankinter ,Barquillo,"Barquillo, 15",Madrid,España,40.4201116,-5.5055796
+
+Bankinter ,Avenida de Manoteras,"Avenida de Manoteras, 1O",Madrid,España,40.4888993,-3.6713917
+
+Bankinter ,Avenida Monforte de Lemos,"Avenida Monforte de Lemos, 185",Madrid,España,42.5236693,-7.5096951
+
+Bankinter ,Avenida de La Peseta,"Avenida de La Peseta, 92",Madrid,España,40.36217705,-3.7538054203
+
+Bankinter ,Ronda de Atocha,"Ronda de Atocha, 18",Madrid,España,40.4065721,-3.697498
+
+Bankinter ,Luchana,"Luchana, 12",Madrid,España,43.370514,-8.3983227
+
+Bankinter ,Avenida Reina Victoria 31,"Avenida Reina Victoria 31,",Madrid,España,40.6389352,-4.0252454
+
+Bankinter ,Eduardo Dato,"Eduardo Dato, 19",Madrid,España,43.3663799,-8.4189612
+
+Bankinter ,Velazquez,"Velazquez, 61",Madrid,España,23.0975433,-82.3289347
+
+Bankinter ,Jesus Aprendiz 19 6. B,"Jesus Aprendiz 19,",Madrid,España,40.4095728,-3.6710508
+
+Bankinter ,Nunez de Balboa,"Nunez de Balboa, 30",Madrid,España,25.7170213,-100.3805227
+
+Bankinter ,Plaza conde Valle Suchil,"Plaza del conde del Valle Suchil, 20",Madrid,España,40.4309086,-3.7075661
+
+Bankinter ,Velazquez,"Velazquez, 150",Madrid,España,23.0975433,-82.3289347
+
+Bankinter ,Canal de Suez N. 11,"Canal de Suez 11,",Madrid,España,40.4729957,-3.5796449
+
+Bankinter ,Alberto Aguilera,"Alberto Aguilera, 12",Madrid,España,40.429935,-3.7077097
+
+Bankinter ,Jose Bergamin N.12 L. 5 Y 6,"Jose Bergamin 12,",Madrid,España,-34.8124665,-56.201066
+
+Bankinter ,Carretera de Canillas,"Carretera de Canillas, 134",Madrid,España,40.4649358,-3.6416763
+
+Bankinter ,Hortaleza,"Hortaleza, 18",Madrid,España,40.4808253,-3.6440270278
+
+Bankinter ,Pedro de Valdivia N. 31,"Pedro de Valdivia 31,",Madrid,España,-36.5911508,-72.092318
+
+Bankinter ,Avenida del Mediterraneo N.10,"Avenida del Mediterraneo 10,",Madrid,España,40.3808359,-3.6028232
+
+Bankinter ,Españoleto 11 1. 1.izda,Calle el Espanoleto 11,Madrid,España,36.5077891,-4.9075016
+
+Bankinter ,San Jaime,"San Jaime, 2",Madrid,España,9.4419445,-75.1490185724
+
+Bankinter ,Alonso Cano,"Alonso Cano, 63",Madrid,España,36.5066893,-6.2747243
+
+Bankinter ,Francisco Santos,"Francisco Santos, 26",Madrid,España,-6.9945579,-41.1350671
+
+Bankinter ,Pajaritos,"Pajaritos, 27",Madrid,España,18.129444,-94.378611
+
+Bankinter ,Miguel Angel N. 22,"Calle Miguel Angel, 22",Madrid,España,38.6947868,-1.4342213
+
+Bankinter ,General Martinez Campos 41 7. Dcha,"Paseo del General Martinez Campos 41,",Madrid,España,40.4349555,-3.6983447
+
+Bankinter ,Lope de Rueda,"Lope de Rueda, 27",Madrid,España,37.8827796,-4.803147
+
+Bankinter ,Gta Cuatro Caminos 6 Y 7,Glorieta Cuatro Caminos 6,Madrid,España,40.4472909,-3.7042116
+
+Bankinter ,Alberto Aguilera 58 2 Izda,Alberto Aguilera 58,Madrid,España,40.4303519,-3.7140294
+
+Bankinter ,Padilla,"Padilla, 6O",Madrid,España,-34.5989179,-58.4437138
+
+Bankinter ,Jorge Juan 19 6,Jorge Juan 19,Madrid,España,-0.1879405,-78.4931327
+
+Bankinter ,Guzman el Bueno 133 8 Planta,Guzman el Bueno 133,Madrid,España,37.6934288,-6.5487773
+
+Bankinter ,Paseo de La Castella 155 8 C,Paseo de La Castella 155,Madrid,España,43.1551738,-0.2784398
+
+Bankinter ,Bravo Murillo,"Bravo Murillo, 54",Madrid,España,40.4510674,-3.7033717
+
+Bankinter ,Jose Ortega Y Gasset,"Jose Ortega Y Gasset, 40",Madrid,España,-2.9171042,-79.0103528
+
+Bankinter ,Recoletos,"Recoletos, 10",Madrid,España,14.5881933,120.9782028
+
+Bankinter ,Avenida General 5 1 Iz,Avenida General 5,Madrid,España,40.4708772,-3.5802332
+
+Bankinter ,Paseo General Mtnez Campos 47 7. Izq,"Paseo del General Martinez Campos, 47",Madrid,España,40.4349555,-3.6983447
+
+Bankinter ,Plaza Callao,"Plaza Callao, 1",Madrid,España,28.4120108,-16.5537202
+
+Bankinter ,Castello,"Castello, 115",Madrid,España,45.8418473,9.1055608
+
+Bankinter ,Lopez de Hoyos,"Lopez de Hoyos, 138",Madrid,España,40.4415849,-3.6781439
+
+Bankinter ,Plaza Manolete,"Plaza Manolete, 2",Madrid,España,20.6362951,-103.3500031
+
+Bankinter ,Zurbano 58 3. Dcha,Zurbano 58,Madrid,España,43.3575961,-2.8893529
+
+Bankinter ,Avenida del Ferrol,"Avenida del Ferrol, 16",Madrid,España,40.47475745,-3.70514813801
+
+Bankinter ,Alcala N. 372 Esc Izq 1. F,Calle de Alcala 372,Madrid,España,33.0700362,-117.0483249
+
+Bankinter ,Paseo Castellana 180,Paseo Castellana 180,Madrid,España,-12.1330411,-77.0033073
+
+Bankinter ,Velazquez N. 53,"Velazquez 53,",Madrid,España,23.0975433,-82.3289347
+
+Bankinter ,Santa Maria Reina N. 2,"Santa Maria Reina 2,",Madrid,España,21.895653,-102.3211896
+
+Bankinter ,Berlin,"Berlin, 7",Madrid,España,52.5916056,13.3080881506
+
+Bankinter ,Avenida Menendez Pelayo N. 115 Ent.2.,"Avenida Menendez Pelayo 115,",Madrid,España,39.2708133,-2.5924417
+
+Bankinter ,General Martinez Campos,"Paseo del General Martinez Campos, 41",Madrid,España,40.4349555,-3.6983447
+
+Bankinter ,Medellin,"Calle Medellin, 11",Madrid,España,36.490492,-4.7218105
+
+Bankinter ,Capitan Haya N. 56 1. H,"Capitan Haya 56,",Madrid,España,40.4625566,-3.691497
+
+Bankinter ,Urumea N. 9,"Calle Urumea 9,",Madrid,España,40.3875874,-3.9324279
+
+Bankinter ,Costa Rica,"Calle Costa Rica, 7",Madrid,España,43.53865,-5.6936189
+
+Bankinter ,Ibiza N. 4 2. B,"Calle Ibiza 4,",Madrid,España,37.3784786,-5.9170135
+
+Bankinter ,Primavera de Praga 11 Loc 11,"Primavera de Praga 11,",Madrid,España,40.4118058,-3.65564519706
+
+Bankinter ,Gran Via N. 55 9.,"Gran Via 55,",Madrid,España,37.8555295605,-122.037700368
+
+Bankinter ,Vinaroz N. 16 B 4.,"Vinaroz 16,",Madrid,España,40.4703992,0.4746076
+
+Bankinter ,Velazquez N. 71 1. Dcha,"Velazquez 71,",Madrid,España,23.0975433,-82.3289347
+
+Bankinter ,Corazon de Maria N.50 4.d,"Corazon de Maria 50,",Madrid,España,-28.434994,-65.7800024
+
+Bankinter ,Bahia de Alicante,"Bahia de Alicante, 7",Madrid,España,-41.4492569,-72.9276677
+
+Bankinter ,Doctor Fleming N. 30 9. C,"Doctor Fleming 30,",Madrid,España,42.6165605,-6.4175543
+
+Bankinter ,Serrano 216,"Serrano 216,",Madrid,España,-33.4473807061,-70.648686049
+
+Bankinter ,Felisa Mendez 9 1.,"Felisa Mendez 9,",Madrid,España,40.393663,-3.6710152
+
+Bankinter ,San Jaime 24,"San Jaime 24,",Madrid,España,9.4419445,-75.1490185724
+
+Bankinter ,Alcala N.157 4.b,"Alcala 157,",Madrid,España,29.853171,-95.2505329
+
+Bankinter ,Silva N. 2 1. 6,"Silva 2,",Madrid,España,34.0550994,-106.9067413
+
+Bankinter ,Doctor Esquerdo N. 43,Doctor Esquerdo 43,Madrid,España,37.6963638,-6.5913069
+
+Bankinter ,Miguel Angel N. 16 2. Dcha,"Miguel Angel 16,",Madrid,España,-22.4832417,-68.9322135
+
+Bankinter ,Argensola N. 6 5.c,"Argensola 6,",Madrid,España,20.6688013,-103.3843131
+
+Bankinter ,Jesus Aprendiz N. 13,"Jesus Aprendiz 13,",Madrid,España,39.4391261,-0.3907976
+
+Bankinter ,Princesa 49,"Princesa 49,",Madrid,España,-26.4452737,-53.599913
+
+Bankinter ,Hermosilla N. 60 1. Izda,"Hermosilla 60,",Madrid,España,42.6575969,-3.4350129
+
+Bankinter ,Francisco Silvela 50 4.b,"Francisco Silvela 50,",Madrid,España,40.4343657,-3.67395
+Bankinter ,Carretera Canillas 138 2. Of 10 B,"Carretera Canillas 138,",Madrid,España,40.465237,-3.6370767
+
+Bankinter ,Berlanas N. 5 1. B,"Berlanas 5,",Madrid,España,40.8040165,-4.7611116
+
+Bankinter ,Avenida de Oporto 81,"Avenida de Oporto 81,",Madrid,España,40.3875405,-3.7306508
+
+Bankinter ,Bravo Murillo N.213 Bis 2.izda,"Bravo Murillo 213,",Madrid,España,40.4510674,-3.7033717
+
+Bankinter ,Islas Cabo Verde 63,Islas Cabo Verde 63,Madrid,España,40.4783077,-3.7357231
+
+Bankinter ,Principe de Vergara,"Principe de Vergara, 205",Madrid,España,36.5189667,-4.876947
+
+Bankinter ,Jerez N.4,"Jerez 4,",Madrid,España,-0.214875,-78.4865651
+
+Bankinter ,Jose Ortega Y Gasset N.68 3.c,"Jose Ortega Y Gasset 68,",Madrid,España,-2.9171042,-79.0103528
+
+Bankinter ,Helsinki 15 1. B,"Helsinki 15,",Madrid,España,60.1913479,24.9026643
+
+Bankinter ,Vicente Morales N.2 304,"Vicente Morales 2,",Madrid,España,-18.4385022,-70.2926835
+
+Bankinter ,Naciones N.9 Entlo B,"Naciones 9,",Madrid,España,12.1355647,-86.2683414
+
+Bankinter ,Orense 36 Esc Izqda,Orense 36,Madrid,España,42.5978558,-6.7192025
+
+Bankinter ,Diego de Leon 46,Calle Diego de Leon 46,Madrid,España,40.824107,0.5011293
+
+Bankinter ,Albadalejo,"Albadalejo, 16",Madrid,España,38.0876975,-0.7952512
+
+Bankinter ,Avenida del Talgo 156 2.c,"Avenida del Talgo 156,",Madrid,España,40.4473649,-3.7863778
+
+Bankinter ,Costa Brava,"Costa Brava, 18",Madrid,España,33.6998086667,-117.746556667
+
+Bankinter ,Arandiga,"Arandiga, 8",Madrid,España,41.5092551,-1.4998265
+
+Bankinter ,Nuñez de Balboa 30,Calle Nunez de Balboa 30,Madrid,España,43.5385864,-5.7028561
+
+Bankinter ,Caracas 9 Bajo Izda,Caracas 9,Madrid,España,-34.6064473,-58.4747399
+
+Bankinter ,Juan de Austria,"Juan de Austria, 10",Madrid,España,43.4849315,-8.2069814
+
+Bankinter ,Hermosilla,"Hermosilla, 108",Madrid,España,42.6575969,-3.4350129
+
+Bankinter ,Alonso Castrillo 2 3. Izqda,"Alonso Castrillo 2,",Madrid,España,42.4648436,-6.1296598
+
+Bankinter ,Afueras A Valverde,"Afueras A Valverde, 48",Madrid,España,40.5002765,-3.6946745
+
+Bankinter ,Paseo Pintor Rosales 26 Local,Paseo Pintor Rosales 26,Madrid,España,40.1134387,-3.7953376
+
+Bankinter ,Jesus Aprendiz,"Jesus Aprendiz, 19",Madrid,España,40.4095728,-3.6710508
+
+Bankinter ,Maldonado,"Maldonado, 19",Madrid,España,-34.6730486,-58.4740085
+
+Bankinter ,Ronda de Buganvilla del Rey 101,"Ronda de Buganvilla del Rey 101,",Madrid,España,40.4561326,-3.766306
+
+Bankinter ,Maldonado 55,"Maldonado 55,",Madrid,España,-34.6730486,-58.4740085
+
+Bankinter ,Avenida America 62 Bajo Izda,"Avenida de America 62,",Madrid,España,27.9180106,-15.4423431
+
+Bankinter ,Paseo General Mtnez Campos 41 7.,"Paseo del General Martinez Campos 41,",Madrid,España,40.4349555,-3.6983447
+
+Bankinter ,Antonio Flores N.1 1.izqda,"Antonio Flores 1,",Madrid,España,-1.2600204,-78.6253508
+
+Bankinter ,Victor Andres Belaunde 25 2.d,Victor Andres Belaunde 25,Madrid,España,-12.0477939,-75.2252429
+
+Bankinter ,Luchana 12 1. 2,"Luchana 12,",Madrid,España,43.370514,-8.3983227
+
+Bankinter ,Santa Barbara 11 2. 1.,"Santa Barbara 11,",Madrid,España,34.86824635,-120.485418194
+
+Bankinter ,Plaza de Las Salesas 7 2. Izda,"Plaza de Las Salesas 7,",Madrid,España,37.61273345,-0.98916785
+
+Bankinter ,Paseo de la Castellana,"Paseo del a Castellana, 29",Madrid,España,43.5463945,-7.4381342
+
+Bankinter ,Villasilos 14 D Bajo A,"Villasilos 14,",Madrid,España,42.3313837,-4.1376123
+
+Bankinter ,Goya 47 3.b,"Goya 47,",Madrid,España,-34.6347617,-58.4854511
+
+Bankinter ,El Algabeño 164 Chalet P,"El Algabeno 164,",Madrid,España,40.4572242,-3.6276797
+
+Bankinter ,Serrano 226 Dpdo Bajo Dcha,"Serrano 226,",Madrid,España,-33.4475345224,-70.6486550796
+
+Bankinter ,Juan de Mariana 4 1.a,"Juan de Mariana 4,",Madrid,España,-31.3866231,-64.1201027
+
+Bankinter ,Avenida Cardenal Herrera Oria 173 10.c,"Avenida del Cardenal Herrera Oria, 173",Madrid,España,43.4576093,-3.8467211
+
+Bankinter ,Gran Via 71 2.planta,Gran Via 71,Madrid,España,15.6116124,-87.9464974
+
+Bankinter ,Avenida General Peron 32 24M,"Avenida General Peron 32,",Madrid,España,-32.2484526,-63.9740604
+
+Bankinter ,Jose Donoso 8 1. D,Jose Donoso 8,Madrid,España,-2.9031869,-78.9839358
+
+Bankinter ,Hermosilla 89 3. Ext Dcha,Hermosilla 89,Madrid,España,42.6575969,-3.4350129
+
+Bankinter ,Capitan Haya 51 14 E,"Capitan Haya 51,",Madrid,España,41.6596522,-4.78018
+
+Bankinter ,Nuñez de Balboa 4 1.e,"Calle Nunez de Balboa 4,",Madrid,España,43.5385864,-5.7028561
+
+Bankinter ,Alberto Aguilera 32 1 Puerta E,"Alberto Aguilera 32,",Madrid,España,40.4303519,-3.7140294
+
+Bankinter ,Maria de Molina 10 1.dcha,"Maria de Molina 10,",Madrid,España,40.0386694,-6.0892124
+
+Bankinter ,Paseo de Las delicias 90 1.a,"Paseo de Las delicias 90,",Madrid,España,-25.3262464,-57.6225802
+
+Bankinter ,Paseo de La Castellana 102 2D,"Paseo de La Castellana 102,",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Avenida Mediterraneo 38 3.b,"Avenida Mediterraneo 38,",Madrid,España,36.8237326,-2.4448076
+
+Bankinter ,Ferraz 43 2. Int Izda,"Ferraz 43,",Madrid,España,45.9973211,5.9303675
+
+Bankinter ,Jose Ortega Y Gasset 60 5.izda,"Jose Ortega Y Gasset 60,",Madrid,España,-2.9171042,-79.0103528
+
+Bankinter ,Nanclares de Oca 18 Piso 6 At 2,"Nanclares de Oca 18,",Madrid,España,42.8166489,-2.81064181267
+
+Bankinter ,Ibiza N.56 7.d,"Ibiza 56,",Madrid,España,52.0523653,4.5398684
+
+Bankinter ,Antonio Machado 17 7.a,"Antonio Machado 17,",Madrid,España,42.8590857,-2.6971681
+
+Bankinter ,Arturo Soria 348 1. Portal L,"Arturo Soria 348,",Madrid,España,40.4420021,-3.6409447
+
+Bankinter ,Humera 54 2.d,"Humera 54,",Madrid,España,40.3124872,-3.9090332
+
+Bankinter ,Alcala N. 114 Sotano B,"Calle de Alcala 114,",Madrid,España,33.0700362,-117.0483249
+
+Bankinter ,Furelos,"Furelos, 3",Madrid,España,42.9106767,-7.9990656
+
+Bankinter ,Florencio Castillo 36 3.a,"Florencio Castillo 36,",Madrid,España,40.4607055,-3.6288798
+
+Bankinter ,General Fanjul 2B Oficina6 4,"General Fanjul 2,",Madrid,España,40.3862403,-3.7605769
+
+Bankinter ,General Alvarez de Castro 14 Local,"Calle del General Alvarez de Castro 14,",Madrid,España,41.3872229,2.1774827
+
+Bankinter ,Jaen N.2 1.b,"Calle de Jaen 2,",Madrid,España,41.6310081,-0.8902798
+
+Bankinter ,Camino de Valderribas 16 4 C,"Camino de Valderribas 16,",Madrid,España,40.3982429,-3.6690608
+
+Bankinter ,Santiago Bernabeu N. 8,"Santiago Bernabeu 8,",Madrid,España,40.4519957,-3.6905766
+
+Bankinter ,Canal de Suez N. 66,"Canal de Suez 66,",Madrid,España,40.4729957,-3.5796449
+
+Bankinter ,Panama 10,"Panama 10,",Madrid,España,-25.4062573,-54.6264725
+
+Bankinter ,Nanclares de Oca 1 2.c,"Nanclares de Oca 1,",Madrid,España,42.8166489,-2.81064181267
+
+Bankinter ,Paseo Castellana 166 2 9 Izq,"Paseo de la Castellana 166,",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Villa de Marin N. 6 2. A,"Villa de Marin 6,",Madrid,España,48.8044443,2.3230027
+
+Bankinter ,Galileo N. 47 A,"Galileo 47,",Madrid,España,-34.8050132,-56.2440472
+
+Bankinter ,Eloy Gonzalo,"Eloy Gonzalo, 19",Madrid,España,35.2904389,-2.9412955
+
+Bankinter ,Antonio Romero 14.,Antonio Romero 14,Madrid,España,-54.8035437,-68.3125916
+
+Banco,Sucursal,Direccion,Ciudad,Pais,Latitud,Longitud
+
+Bankinter ,Carretera Canillas 138 2. Of 10 B,"Carretera Canillas 138,",Madrid,España,40.465237,-3.6370767
+
+Bankinter ,Berlanas N. 5 1. B,"Berlanas 5,",Madrid,España,40.8040165,-4.7611116
+
+Bankinter ,Avenida de Oporto 81,"Avenida de Oporto 81,",Madrid,España,40.3875405,-3.7306508
+
+Bankinter ,Bravo Murillo N.213 Bis 2.izda,"Bravo Murillo 213,",Madrid,España,40.4510674,-3.7033717
+
+Bankinter ,Islas Cabo Verde 63,Islas Cabo Verde 63,Madrid,España,40.4783077,-3.7357231
+
+Bankinter ,Principe de Vergara,"Principe de Vergara, 205",Madrid,España,36.5189667,-4.876947
+
+Bankinter ,Jerez N.4,"Jerez 4,",Madrid,España,-0.214875,-78.4865651
+
+Bankinter ,Jose Ortega Y Gasset N.68 3.c,"Jose Ortega Y Gasset 68,",Madrid,España,-2.9171042,-79.0103528
+
+Bankinter ,Helsinki 15 1. B,"Helsinki 15,",Madrid,España,60.1913479,24.9026643
+
+Bankinter ,Vicente Morales N.2 304,"Vicente Morales 2,",Madrid,España,-18.4385022,-70.2926835
+
+Bankinter ,Naciones N.9 Entlo B,"Naciones 9,",Madrid,España,12.1355647,-86.2683414
+
+Bankinter ,Orense 36 Esc Izqda,Orense 36,Madrid,España,42.5978558,-6.7192025
+
+Bankinter ,Diego de Leon 46,Calle Diego de Leon 46,Madrid,España,40.824107,0.5011293
+
+Bankinter ,Albadalejo,"Albadalejo, 16",Madrid,España,38.0876975,-0.7952512
+
+Bankinter ,Avenida del Talgo 156 2.c,"Avenida del Talgo 156,",Madrid,España,40.4473649,-3.7863778
+
+Bankinter ,Costa Brava,"Costa Brava, 18",Madrid,España,33.6998086667,-117.746556667
+
+Bankinter ,Arandiga,"Arandiga, 8",Madrid,España,41.5092551,-1.4998265
+
+Bankinter ,Nuñez de Balboa 30,Calle Nunez de Balboa 30,Madrid,España,43.5385864,-5.7028561
+
+Bankinter ,Caracas 9 Bajo Izda,Caracas 9,Madrid,España,-34.6064473,-58.4747399
+
+Bankinter ,Juan de Austria,"Juan de Austria, 10",Madrid,España,43.4849315,-8.2069814
+
+Bankinter ,Hermosilla,"Hermosilla, 108",Madrid,España,42.6575969,-3.4350129
+
+Bankinter ,Alonso Castrillo 2 3. Izqda,"Alonso Castrillo 2,",Madrid,España,42.4648436,-6.1296598
+
+Bankinter ,Afueras A Valverde,"Afueras A Valverde, 48",Madrid,España,40.5002765,-3.6946745
+
+Bankinter ,Paseo Pintor Rosales 26 Local,Paseo Pintor Rosales 26,Madrid,España,40.1134387,-3.7953376
+
+Bankinter ,Jesus Aprendiz,"Jesus Aprendiz, 19",Madrid,España,40.4095728,-3.6710508
+
+Bankinter ,Maldonado,"Maldonado, 19",Madrid,España,-34.6730486,-58.4740085
+
+Bankinter ,Ronda de Buganvilla del Rey 101,"Ronda de Buganvilla del Rey 101,",Madrid,España,40.4561326,-3.766306
+
+Bankinter ,Maldonado 55,"Maldonado 55,",Madrid,España,-34.6730486,-58.4740085
+
+Bankinter ,Avenida America 62 Bajo Izda,"Avenida de America 62,",Madrid,España,27.9180106,-15.4423431
+
+Bankinter ,Paseo General Mtnez Campos 41 7.,"Paseo del General Martinez Campos 41,",Madrid,España,40.4349555,-3.6983447
+
+Bankinter ,Antonio Flores N.1 1.izqda,"Antonio Flores 1,",Madrid,España,-1.2600204,-78.6253508
+
+Bankinter ,Victor Andres Belaunde 25 2.d,Victor Andres Belaunde 25,Madrid,España,-12.0477939,-75.2252429
+
+Bankinter ,Luchana 12 1. 2,"Luchana 12,",Madrid,España,43.370514,-8.3983227
+
+Bankinter ,Santa Barbara 11 2. 1.,"Santa Barbara 11,",Madrid,España,34.86824635,-120.485418194
+
+Bankinter ,Plaza de Las Salesas 7 2. Izda,"Plaza de Las Salesas 7,",Madrid,España,37.61273345,-0.98916785
+
+Bankinter ,Paseo de la Castellana,"Paseo del a Castellana, 29",Madrid,España,43.5463945,-7.4381342
+
+Bankinter ,Villasilos 14 D Bajo A,"Villasilos 14,",Madrid,España,42.3313837,-4.1376123
+
+Bankinter ,Goya 47 3.b,"Goya 47,",Madrid,España,-34.6347617,-58.4854511
+
+Bankinter ,El Algabeño 164 Chalet P,"El Algabeno 164,",Madrid,España,40.4572242,-3.6276797
+
+Bankinter ,Serrano 226 Dpdo Bajo Dcha,"Serrano 226,",Madrid,España,-33.4475345224,-70.6486550796
+
+Bankinter ,Juan de Mariana 4 1.a,"Juan de Mariana 4,",Madrid,España,-31.3866231,-64.1201027
+
+Bankinter ,Avenida Cardenal Herrera Oria 173 10.c,"Avenida del Cardenal Herrera Oria, 173",Madrid,España,43.4576093,-3.8467211
+
+Bankinter ,Gran Via 71 2.planta,Gran Via 71,Madrid,España,15.6116124,-87.9464974
+
+Bankinter ,Avenida General Peron 32 24M,"Avenida General Peron 32,",Madrid,España,-32.2484526,-63.9740604
+
+Bankinter ,Jose Donoso 8 1. D,Jose Donoso 8,Madrid,España,-2.9031869,-78.9839358
+
+Bankinter ,Hermosilla 89 3. Ext Dcha,Hermosilla 89,Madrid,España,42.6575969,-3.4350129
+
+Bankinter ,Capitan Haya 51 14 E,"Capitan Haya 51,",Madrid,España,41.6596522,-4.78018
+
+Bankinter ,Nuñez de Balboa 4 1.e,"Calle Nunez de Balboa 4,",Madrid,España,43.5385864,-5.7028561
+
+Bankinter ,Alberto Aguilera 32 1 Puerta E,"Alberto Aguilera 32,",Madrid,España,40.4303519,-3.7140294
+
+Bankinter ,Maria de Molina 10 1.dcha,"Maria de Molina 10,",Madrid,España,40.0386694,-6.0892124
+
+Bankinter ,Paseo de Las delicias 90 1.a,"Paseo de Las delicias 90,",Madrid,España,-25.3262464,-57.6225802
+
+Bankinter ,Paseo de La Castellana 102 2D,"Paseo de La Castellana 102,",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Avenida Mediterraneo 38 3.b,"Avenida Mediterraneo 38,",Madrid,España,36.8237326,-2.4448076
+
+Bankinter ,Ferraz 43 2. Int Izda,"Ferraz 43,",Madrid,España,45.9973211,5.9303675
+
+Bankinter ,Jose Ortega Y Gasset 60 5.izda,"Jose Ortega Y Gasset 60,",Madrid,España,-2.9171042,-79.0103528
+
+Bankinter ,Nanclares de Oca 18 Piso 6 At 2,"Nanclares de Oca 18,",Madrid,España,42.8166489,-2.81064181267
+
+Bankinter ,Ibiza N.56 7.d,"Ibiza 56,",Madrid,España,52.0523653,4.5398684
+
+Bankinter ,Antonio Machado 17 7.a,"Antonio Machado 17,",Madrid,España,42.8590857,-2.6971681
+
+Bankinter ,Arturo Soria 348 1. Portal L,"Arturo Soria 348,",Madrid,España,40.4420021,-3.6409447
+
+Bankinter ,Humera 54 2.d,"Humera 54,",Madrid,España,40.3124872,-3.9090332
+
+Bankinter ,Alcala N. 114 Sotano B,"Calle de Alcala 114,",Madrid,España,33.0700362,-117.0483249
+
+Bankinter ,Furelos,"Furelos, 3",Madrid,España,42.9106767,-7.9990656
+
+Bankinter ,Florencio Castillo 36 3.a,"Florencio Castillo 36,",Madrid,España,40.4607055,-3.6288798
+
+Bankinter ,General Fanjul 2B Oficina6 4,"General Fanjul 2,",Madrid,España,40.3862403,-3.7605769
+
+Bankinter ,General Alvarez de Castro 14 Local,"Calle del General Alvarez de Castro 14,",Madrid,España,41.3872229,2.1774827
+
+Bankinter ,Jaen N.2 1.b,"Calle de Jaen 2,",Madrid,España,41.6310081,-0.8902798
+
+Bankinter ,Camino de Valderribas 16 4 C,"Camino de Valderribas 16,",Madrid,España,40.3982429,-3.6690608
+
+Bankinter ,Santiago Bernabeu N. 8,"Santiago Bernabeu 8,",Madrid,España,40.4519957,-3.6905766
+
+Bankinter ,Canal de Suez N. 66,"Canal de Suez 66,",Madrid,España,40.4729957,-3.5796449
+
+Bankinter ,Panama 10,"Panama 10,",Madrid,España,-25.4062573,-54.6264725
+
+Bankinter ,Nanclares de Oca 1 2.c,"Nanclares de Oca 1,",Madrid,España,42.8166489,-2.81064181267
+
+Bankinter ,Paseo Castellana 166 2 9 Izq,"Paseo de la Castellana 166,",Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Villa de Marin N. 6 2. A,"Villa de Marin 6,",Madrid,España,48.8044443,2.3230027
+
+Bankinter ,Galileo N. 47 A,"Galileo 47,",Madrid,España,-34.8050132,-56.2440472
+
+Bankinter ,Eloy Gonzalo,"Eloy Gonzalo, 19",Madrid,España,35.2904389,-2.9412955
+
+Bankinter ,Antonio Romero 14.,Antonio Romero 14,Madrid,España,-54.8035437,-68.3125916
+
+Bankinter ,Valverde N.30 4,"Calle Valverde 30,",Madrid,España,36.5332528,-6.2962945
+
+Bankinter ,Gran Via 80,Gran Via 80,Madrid,España,37.8557926052,-122.037055444
+
+Bankinter ,Paseo de La Castellana 20,Paseo de La Castellana 20,Madrid,España,40.4358824,-3.6893211
+
+Bankinter ,Rufino Gonzalez 42 44,Rufino Gonzalez 42,Madrid,España,18.123468,-66.1712679
+
+Bankinter ,Sil 50,"Calle del Sil 50,",Madrid,España,40.4489123,-3.6821414
+
+Bankinter ,Marques de Riscal,"Marques de Riscal, 11",Madrid,España,40.5535592,-5.6722211
+
+Bankinter ,Pico San Pedro,"Pico San Pedro, 2",Madrid,España,12.1526974,-86.3175768
+
+Bankinter ,Avenida de Bruselas,"Avenida de Bruselas, 12",Madrid,España,42.8495354,-2.6464733
+
+Bankinter ,Avenida Gral Peron N. 38,"Avenida General Peron 38,",Madrid,España,-32.2484526,-63.9740604
+
+Bankinter ,Alberto Aguilera,"Alberto Aguilera, 58",Madrid,España,40.4303519,-3.7140294
+
+Bankinter ,Torrelaguna,"Torrelaguna, 67",Madrid,España,40.8277273,-3.538293
+
+Bankinter ,Orense,"Orense, 5",Madrid,España,42.5978558,-6.7192025
+
+Bankinter ,Avenida Mediterraneo 7,Avenida Mediterraneo 7,Madrid,España,36.8237326,-2.4448076
+
+Bankinter ,Jose Lazaro Galdiano,"Jose Lazaro Galdiano, 4",Madrid,España,40.4575459,-3.6881834
+
+Bankinter ,Princesa,"Princesa, 47",Madrid,España,-26.4452737,-53.599913
+
+Bankinter ,Antonio Maura,"Antonio Maura, 18",Madrid,España,37.8827952,-4.788288
+
+Bankinter ,Avenida de Bruselas Num.12,"Avenida de Bruselas 12,",Madrid,España,42.8495354,-2.6464733
+
+Bankinter ,Marques de Riscal,"Marques de Riscal, 11",Madrid,España,40.5535592,-5.6722211
+
+Bankinter ,Fortuny,"Fortuny, 39",Madrid,España,52.2158275,20.9018581012
+
+Bankinter ,Orense,"Orense, 5",Madrid,España,42.5978558,-6.7192025
+
+Bankinter ,Avenida de Bruselas 12,"Avenida de Bruselas 12,",Madrid,España,42.8495354,-2.6464733
+
+Bankinter ,Pico de San Pedro,"Pico de San Pedro, 2",Madrid,España,43.1093126,-4.0630936
+
+Bankinter ,Villanueva,"Villanueva, 2",Madrid,España,14.660749,120.9572024
+
+Bankinter ,Pico de San Pedro 2,"Pico de San Pedro 2,",Madrid,España,43.1093126,-4.0630936
