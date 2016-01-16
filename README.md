@@ -16,5 +16,5 @@ Four geocoded csv files containing the bank, address, longitude, latitude, city 
 
 # Final thoughts
 
-Because Geopy has a limit of 500 items, it would be necessary to write a "if adress is already in the new file" statement in order to avoid repetition and conserve the geocoding budget. Furthermore, the resulting *_geo.csv" files were in a bad format (separated by lines). In order to solve this, I will try not to use the csv module. Finally, it would be better to save the new data in a database such as SQLITE or Postgres.
+Because Geopy has a limit of 500 items, it would be necessary to write a "if adress is already in the new file" statement in order to avoid repetition and conserve the geocoding budget. Furthermore, the resulting *_geo.csv* files were in a bad format (separated by lines). In order to solve this, I will try not to use the csv module. Finally, it would be better to save the new data in a database such as SQLITE or Postgres.
 
